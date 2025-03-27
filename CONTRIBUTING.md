@@ -29,7 +29,7 @@ If there's a particular improvement you want to suggest, or a bug in kosh you wa
 The very first thing you should do is be able to access Kosh and play around with it. There are two ways to do so
 
 - [Request Access](https://docs.google.com/forms/d/e/1FAIpQLSfb248JGhHziFQ3YfE9CYYWkF5vb_zlUn1bpmbjpy8aVGbw7g/viewform) to our publicly hosted Kosh
-- Launch Kosh on your own machine (guide)[docs/development.md]
+- Launch Kosh on your own machine [guide](docs/development.md)
 
 ## Pair programming
 
